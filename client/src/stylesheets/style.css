@@ -1,0 +1,6 @@
+.bg-img {
+  background: url("https://s.udemycdn.com/organization/background/1920x1080/placeholder.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
