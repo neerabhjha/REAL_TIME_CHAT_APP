@@ -6,7 +6,7 @@ import { useSelector } from "react-redux";
 import { io } from "socket.io-client";
 import bgImage from "../../images/bgImage.png";
 
-const socket = io("https://quick-chat.onrender.com");
+const socket = io("https://quick-chat-i45n.onrender.com");
 
 function Home() {
   const [searchKey, setSearchKey] = useState("");
